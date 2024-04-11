@@ -8,7 +8,7 @@
 #SBATCH --cpus-per-task=4           # Number of CPU cores per task
 #SBATCH --mem=16G                   # Memory (default is 1GB per CPU-core)
 #SBATCH --partition=gpu             # GPU partition
-#SBATCH --time=2-00:00:00           # Time limit days-hrs:min:sec
+#SBATCH --time=24:00:00           # Time limit days-hrs:min:sec
 
 
 python main.py
