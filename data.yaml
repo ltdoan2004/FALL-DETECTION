@@ -5,6 +5,7 @@ val: .dataset/valid # val images (relative to 'path') 4 images
 test:  ./dataset/test # test images (optional)
 
 # Classes (80 COCO classes)
+# Classes
 names:
-  O: fall
-  1: no_fall
+  - fall
+  - no_fall

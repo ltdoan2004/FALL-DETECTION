@@ -10,6 +10,6 @@
 #SBATCH --partition=gpu             # GPU partition
 #SBATCH --time=2-00:00:00           # Time limit days-hrs:min:sec
 
-
+conda activate falldetection
 
 python main.py
