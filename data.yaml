@@ -1,7 +1,7 @@
-path: /home/tvtn1c23/FALL-DETECTION/dataset
-train: /home/tvtn1c23/FALL-DETECTION/dataset/train  
-val: /home/tvtn1c23/FALL-DETECTION/dataset/valid  
-test: /home/tvtn1c23/FALL-DETECTION/dataset/test
+path: /scratch/tvtn1c23/FALL-DETECTION/dataset
+train: /scratch/tvtn1c23/FALL-DETECTION/dataset/train  
+val: /scratch/tvtn1c23/FALL-DETECTION/dataset/valid  
+test: /scratch/tvtn1c23/FALL-DETECTION/dataset/test
 
 names:
   - fall
