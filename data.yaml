@@ -5,4 +5,3 @@ test: /scratch/tvtn1c23/FALL-DETECTION/dataset/test
 
 names:
   - fall
-  - no_fall
